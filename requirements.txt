@@ -1,0 +1,6 @@
+matplotlib
+highlight_text
+scipy
+mplsoccer
+streamlit
+
